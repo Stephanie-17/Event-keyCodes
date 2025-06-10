@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+
+}
+.event{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    margin-top: 300px;
+}
+.event div{
+    background-color: rgb(255, 255, 255);
+    border: 1px rgb(69, 68, 68) solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+height: 30px;
+width: 120px;
+    box-shadow: 1px 1px 5px rgb(72, 72, 72);
+    position: relative;
+}
+small{
+    position: absolute;
+    top: -30px;
+    
+}
