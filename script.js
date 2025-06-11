@@ -20,16 +20,3 @@ window.addEventListener('keydown',(e)=>{
 
 
 
-/*<div class="key">
-            <p></p>
-            <small>event.key</small>
-        </div>
-         <div class="key-code">
-            <p></p>
-            <small>event.keyCode</small>
-        </div>
-        <div class="event-code">
-            <p></p>
-            <small>event.code</small>
-        </div>*/
-        
